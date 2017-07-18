@@ -10,7 +10,7 @@ Clicking on the `url` should lead to the page containing the article
 
 Use any framework of your choice and submit a Pull Request when you're done. In submitting your pull request, create a new branch with your name 
 
-Preferable but not necessary: After you are done, display your work as a Github Page
+Preferable but not necessary: After you are done, display your work as a Github Page or on Heroku or any place of your choice
 
 Api key: **aed9659f383f4b28b6ba9d30a3cb78c0**
 
